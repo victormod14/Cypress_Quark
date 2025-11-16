@@ -1,4 +1,5 @@
-1. Abrir o Cypress em modo interativo (interface gráfica)
+1. Baixar e Abrir o Cypress em modo interativo (interface gráfica)
+->npm install cypress --save-dev
 ->npx cypress open
 
 
